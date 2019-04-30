@@ -1,0 +1,5 @@
+This is a "rock, paper, or scissor" game played against a computer.
+You will enter how many games you would like to play.
+Then You will pick a number that represents one of those moves.
+Then the computer(me) will also randomly pick a random move to play against yours.
+Let's begin! Good luck and have fun ^.^
