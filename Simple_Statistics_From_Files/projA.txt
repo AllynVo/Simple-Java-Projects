@@ -1,0 +1,3 @@
+Many Rodriguez 90 85 50 60
+Jean Harlow 78 85 100 60
+Adolfo DiMare 78 90 90 40

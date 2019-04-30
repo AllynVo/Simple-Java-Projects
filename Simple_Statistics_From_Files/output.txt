@@ -1,0 +1,5 @@
+projA.txt
+	Many      Rodriguez      74.50    C    Spelling
+	Jean      Harlow         80.90    B    Presence
+	Adolfo    DiMare         76.40    C    Syntax Presence
+	Jerome    Mad            76.40    C    Syntax Presence

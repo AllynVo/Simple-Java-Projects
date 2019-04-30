@@ -1,0 +1,4 @@
+Spelling 30
+Syntax 30
+Presence 20
+Logic 20
